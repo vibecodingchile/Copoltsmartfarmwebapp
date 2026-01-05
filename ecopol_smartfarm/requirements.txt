@@ -1,0 +1,6 @@
+streamlit==1.37.1
+pandas==2.2.2
+plotly==5.23.0
+paho-mqtt==2.1.0
+pymodbus==3.6.8
+requests==2.32.3
